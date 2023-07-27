@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pluto-matt
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JS
+- 👋 Hi, I’m @mcdemy
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently working towards Cisco network and cybersecurity certifications
 - 💞️ I’m looking to collaborate on any project that will challenge me and develop my skillset!
